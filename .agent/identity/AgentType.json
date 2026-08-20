@@ -1,0 +1,19 @@
+{
+  "$schema": "https://paf.cureinteractive.com/schema/agent-type-registry.schema.json",
+  "agentType": [
+    {
+      "id": "codex",
+      "display": "Codex",
+      "alias": [
+        "openai-codex"
+      ]
+    },
+    {
+      "id": "gemini",
+      "display": "Gemini",
+      "alias": [
+        "google-gemini"
+      ]
+    }
+  ]
+}

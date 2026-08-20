@@ -1,0 +1,7 @@
+{
+  "$schema": "https://paf.cureinteractive.com/schema/identity.schema.json",
+  "id": "leviscustempris",
+  "gitName": "Leviscus Tempris",
+  "status": "active",
+  "emailFingerprint": "sha256:dffb2cd669bba5f63510c11e3656d5b189d8bf849d9bd9087ab8a35eb78483da"
+}

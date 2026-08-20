@@ -1,3 +1,13 @@
+# Project Agent Route
+
+Before project work, load the developer's Framework Implementation from
+`~/.agent/AGENTS.md`. Allow that route to perform its non-blocking daily stable
+refresh when due.
+
+Then load this project's `.agent/AGENTS.md` when present and follow only the
+project routes relevant to the work. This file is a discovery adapter; do not
+duplicate framework or project policy here.
+
 # AGENTS.md - Coding Guidelines for Markpad
 
 This file contains guidelines for AI agents working on the Markpad codebase.
