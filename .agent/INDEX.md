@@ -21,4 +21,7 @@ load only existing task-relevant child routes here. Project-specific content is
 materialized under this directory only when useful. Canonical skills remain
 discoverable through `~/.agent/skill/INDEX.md` without per-project or
 host-native skill installation.
+
+PAF guidance applies forward to new work and natural transitions. Do not rewrite
+existing project records or active work merely to match newer guidance.
 <!-- END PAF-PROJECT-ROUTE -->
