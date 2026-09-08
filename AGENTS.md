@@ -1,7 +1,7 @@
 # Project Agent Route
 
 Before project work, load the developer's Framework Implementation from
-`~/.paf/AGENTS.md`. Allow that route to perform its non-blocking daily stable
+`~/.project-agent/framework/AGENTS.md`. Allow that route to perform its non-blocking daily stable
 refresh when due.
 
 Then load this project's `.agent/AGENTS.md` when present and follow only the

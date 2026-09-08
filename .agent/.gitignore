@@ -1,1 +1,9 @@
+# BEGIN PAF IGNORE PROFILE agent-runtime
 /local/
+__pycache__/
+*.py[cod]
+# END PAF IGNORE PROFILE agent-runtime
+
+/local/
+__pycache__/
+*.py[cod]

@@ -1,3 +1,18 @@
+# BEGIN PAF IGNORE PROFILE agent-runtime
+/_temp/
+# END PAF IGNORE PROFILE agent-runtime
+
+# BEGIN PAF IGNORE PROFILE log-directory
+/_log/
+# END PAF IGNORE PROFILE log-directory
+
+# BEGIN PAF IGNORE PROFILE node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# END PAF IGNORE PROFILE node
+
 .DS_Store
 node_modules
 /build
