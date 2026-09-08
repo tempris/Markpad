@@ -1,0 +1,10 @@
+{
+  "$schema": "https://paf.cureinteractive.com/schema/project-adoption-receipt.schema.json",
+  "contractVersion": 1,
+  "component": {
+    "core": {
+      "digest": "sha256:f5222cc80c628c53e5e5a031a92a1a0bc25b630a39dc8a778b38892e004e3d02"
+    }
+  },
+  "wholeDigest": "sha256:2d3fdcd317f2e03516970b35c12d2d7f1380c008b1a503be32db08cd0c61abd0"
+}
