@@ -3,8 +3,8 @@
   "contractVersion": 1,
   "component": {
     "core": {
-      "digest": "sha256:9a2f05a82cd7d9b423bbf29a5663f3cbc49d03cb6487f7373db40ff26298e790"
+      "digest": "sha256:63c27566609ac34dcedc865a802880c0f2aaa6df4280045ebf7ea02f4fffe739"
     }
   },
-  "wholeDigest": "sha256:995efcc274a6423f9eede6416f0070b077fbde614edfc01a3c4a9ff27cb1a49b"
+  "wholeDigest": "sha256:1c0b06eb9a6528b53b193b8373321fcb19f531b5d1b86ef07f688f9fe68cfa87"
 }

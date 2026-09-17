@@ -1,12 +1,15 @@
+<!-- BEGIN PAF-ROOT-ROUTE -->
 # Project Agent Route
 
-Before project work, load the developer's Framework Implementation from
-`~/.project-agent/framework/AGENTS.md`. Allow that route to perform its non-blocking daily stable
-refresh when due.
+When `~/.project-agent/framework/AGENTS.md` exists, load it before project work
+and allow its non-blocking daily stable refresh when due. When it is absent,
+load this project's `.agent/AGENTS.md` and `.agent/INDEX.md`; that seed contains
+the complete first-install route and never blocks the project objective.
 
 Then load this project's `.agent/AGENTS.md` when present and follow only the
 project routes relevant to the work. This file is a discovery adapter; do not
 duplicate framework or project policy here.
+<!-- END PAF-ROOT-ROUTE -->
 
 # AGENTS.md - Coding Guidelines for Markpad
 
